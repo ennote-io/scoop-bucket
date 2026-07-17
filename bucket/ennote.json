@@ -1,26 +1,26 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ennote-io/ennote-cli/releases/download/v1.1.0/ennote_1.1.0_windows_386.zip",
+            "url": "https://github.com/ennote-io/ennote-cli/releases/download/v1.2.0/ennote_1.2.0_windows_386.zip",
             "bin": [
                 "ennote.exe"
             ],
-            "hash": "5c2d02d8a97319f845397ed427b7c2b507637689e021837f3a18ca549a6e3db9"
+            "hash": "b3d07f0aa58f011d126d1e1eaf4e309fdfc3fae5b364201851eb39b8be19b0ab"
         },
         "64bit": {
-            "url": "https://github.com/ennote-io/ennote-cli/releases/download/v1.1.0/ennote_1.1.0_windows_amd64.zip",
+            "url": "https://github.com/ennote-io/ennote-cli/releases/download/v1.2.0/ennote_1.2.0_windows_amd64.zip",
             "bin": [
                 "ennote.exe"
             ],
-            "hash": "7e58e4f36c926888de779115aba1d1257dbf310f15adbdbb65ff71421b586948"
+            "hash": "1d8eb89b3feece1b14a58ee1beb3a84ce203de3cba32f8c073787d86d3d0a70d"
         },
         "arm64": {
-            "url": "https://github.com/ennote-io/ennote-cli/releases/download/v1.1.0/ennote_1.1.0_windows_arm64.zip",
+            "url": "https://github.com/ennote-io/ennote-cli/releases/download/v1.2.0/ennote_1.2.0_windows_arm64.zip",
             "bin": [
                 "ennote.exe"
             ],
-            "hash": "4fa3051743660a160cacbdb97e78838860f843bb78c1cec014733ea6e1d2c968"
+            "hash": "7e3f4cefb5f2bdbf6fb506d8e0c14cec64372e511807f2cdcd39f549d37e0167"
         }
     },
     "homepage": "https://ennote.io",
